@@ -1,4 +1,4 @@
-# artifacts-nuxt-structure
+# workshop-frontend
 
 ## Build Setup
 
